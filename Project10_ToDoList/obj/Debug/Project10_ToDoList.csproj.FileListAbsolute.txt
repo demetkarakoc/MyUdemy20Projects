@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_ToDoList\bin\Debug\Project10_ToDoList.exe.config
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_ToDoList\bin\Debug\Project10_ToDoList.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_ToDoList\bin\Debug\Project10_ToDoList.pdb
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_ToDoList\obj\Debug\Project10_ToDoList.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_ToDoList\obj\Debug\Project10_ToDoList.ToDoList.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_ToDoList\obj\Debug\Project10_ToDoList.Properties.Resources.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_ToDoList\obj\Debug\Project10_ToDoList.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_ToDoList\obj\Debug\Project10_ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_ToDoList\obj\Debug\Project10_ToDoList.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_ToDoList\obj\Debug\Project10_ToDoList.pdb

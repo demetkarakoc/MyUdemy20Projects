@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project11_TriggerOrderStock\bin\Debug\Project11_TriggerOrderStock.exe.config
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project11_TriggerOrderStock\bin\Debug\Project11_TriggerOrderStock.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project11_TriggerOrderStock\bin\Debug\Project11_TriggerOrderStock.pdb
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project11_TriggerOrderStock\obj\Debug\Project11_TriggerOrderStock.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project11_TriggerOrderStock\obj\Debug\Project11_TriggerOrderStock.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project11_TriggerOrderStock\obj\Debug\Project11_TriggerOrderStock.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project11_TriggerOrderStock\obj\Debug\Project11_TriggerOrderStock.pdb
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project11_TriggerOrderStock\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project11_TriggerOrderStock\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project11_TriggerOrderStock\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project11_TriggerOrderStock\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project11_TriggerOrderStock\obj\Debug\Project1.2CBF2A6D.Up2Date

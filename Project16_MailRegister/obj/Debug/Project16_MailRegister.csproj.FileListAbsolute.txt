@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project16_MailRegister\bin\Debug\Project16_MailRegister.exe.config
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project16_MailRegister\bin\Debug\Project16_MailRegister.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project16_MailRegister\bin\Debug\Project16_MailRegister.pdb
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project16_MailRegister\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project16_MailRegister\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project16_MailRegister\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project16_MailRegister\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project16_MailRegister\obj\Debug\Project16_MailRegister.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project16_MailRegister\obj\Debug\Project16_MailRegister.Form1.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project16_MailRegister\obj\Debug\Project16_MailRegister.FrmMailConfrim.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project16_MailRegister\obj\Debug\Project16_MailRegister.Properties.Resources.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project16_MailRegister\obj\Debug\Project16_MailRegister.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project16_MailRegister\obj\Debug\Project16_MailRegister.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project16_MailRegister\obj\Debug\Project1.6B818F41.Up2Date
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project16_MailRegister\obj\Debug\Project16_MailRegister.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project16_MailRegister\obj\Debug\Project16_MailRegister.pdb

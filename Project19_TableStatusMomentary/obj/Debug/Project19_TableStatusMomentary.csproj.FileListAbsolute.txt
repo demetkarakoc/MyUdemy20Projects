@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project19_TableStatusMomentary\bin\Debug\Project19_TableStatusMomentary.exe.config
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project19_TableStatusMomentary\bin\Debug\Project19_TableStatusMomentary.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project19_TableStatusMomentary\bin\Debug\Project19_TableStatusMomentary.pdb
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project19_TableStatusMomentary\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project19_TableStatusMomentary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project19_TableStatusMomentary\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project19_TableStatusMomentary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project19_TableStatusMomentary\obj\Debug\Project19_TableStatusMomentary.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project19_TableStatusMomentary\obj\Debug\Project19_TableStatusMomentary.Form1.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project19_TableStatusMomentary\obj\Debug\Project19_TableStatusMomentary.Properties.Resources.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project19_TableStatusMomentary\obj\Debug\Project19_TableStatusMomentary.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project19_TableStatusMomentary\obj\Debug\Project19_TableStatusMomentary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project19_TableStatusMomentary\obj\Debug\Project1.860E3761.Up2Date
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project19_TableStatusMomentary\obj\Debug\Project19_TableStatusMomentary.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project19_TableStatusMomentary\obj\Debug\Project19_TableStatusMomentary.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UH7EST/wSF6VjF9CnpJxXUDG3mnAIKfBm4j6Mci26PfhtCV0l+Oy7bJzMZLpbaq5vY/nh1VNuLXjDTV3BTNvXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\MyUdemy20ProjectsCSharp\\Project7_ApiWeatherConsume\\Project7_ApiWeatherConsume.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

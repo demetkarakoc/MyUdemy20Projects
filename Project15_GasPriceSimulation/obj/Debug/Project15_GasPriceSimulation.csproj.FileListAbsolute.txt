@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project15_GasPriceSimulation\bin\Debug\Project15_GasPriceSimulation.exe.config
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project15_GasPriceSimulation\bin\Debug\Project15_GasPriceSimulation.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project15_GasPriceSimulation\bin\Debug\Project15_GasPriceSimulation.pdb
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project15_GasPriceSimulation\obj\Debug\Project15_GasPriceSimulation.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project15_GasPriceSimulation\obj\Debug\Project15_GasPriceSimulation.Form1.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project15_GasPriceSimulation\obj\Debug\Project15_GasPriceSimulation.Properties.Resources.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project15_GasPriceSimulation\obj\Debug\Project15_GasPriceSimulation.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project15_GasPriceSimulation\obj\Debug\Project15_GasPriceSimulation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project15_GasPriceSimulation\obj\Debug\Project15_GasPriceSimulation.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project15_GasPriceSimulation\obj\Debug\Project15_GasPriceSimulation.pdb
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project15_GasPriceSimulation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project15_GasPriceSimulation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project15_GasPriceSimulation\obj\Debug\Project1.15EE2577.Up2Date

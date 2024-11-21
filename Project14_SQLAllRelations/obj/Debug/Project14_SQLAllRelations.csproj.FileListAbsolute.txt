@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project14_SQLAllRelations\bin\Debug\Project14_SQLAllRelations.exe.config
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project14_SQLAllRelations\bin\Debug\Project14_SQLAllRelations.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project14_SQLAllRelations\bin\Debug\Project14_SQLAllRelations.pdb
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project14_SQLAllRelations\obj\Debug\Project14_SQLAllRelations.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project14_SQLAllRelations\obj\Debug\Project14_SQLAllRelations.Form1.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project14_SQLAllRelations\obj\Debug\Project14_SQLAllRelations.Properties.Resources.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project14_SQLAllRelations\obj\Debug\Project14_SQLAllRelations.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project14_SQLAllRelations\obj\Debug\Project14_SQLAllRelations.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project14_SQLAllRelations\obj\Debug\Project14_SQLAllRelations.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project14_SQLAllRelations\obj\Debug\Project14_SQLAllRelations.pdb

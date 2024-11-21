@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project5_DapperNorthwind\bin\Debug\Project5_DapperNorthwind.exe.config
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project5_DapperNorthwind\bin\Debug\Project5_DapperNorthwind.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project5_DapperNorthwind\bin\Debug\Project5_DapperNorthwind.pdb
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project5_DapperNorthwind\bin\Debug\Dapper.dll
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project5_DapperNorthwind\bin\Debug\Dapper.xml
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project5_DapperNorthwind\obj\Debug\Project5_DapperNorthwind.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project5_DapperNorthwind\obj\Debug\Project5_DapperNorthwind.Form1.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project5_DapperNorthwind\obj\Debug\Project5_DapperNorthwind.Properties.Resources.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project5_DapperNorthwind\obj\Debug\Project5_DapperNorthwind.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project5_DapperNorthwind\obj\Debug\Project5_DapperNorthwind.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project5_DapperNorthwind\obj\Debug\Project5.085591B1.Up2Date
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project5_DapperNorthwind\obj\Debug\Project5_DapperNorthwind.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project5_DapperNorthwind\obj\Debug\Project5_DapperNorthwind.pdb

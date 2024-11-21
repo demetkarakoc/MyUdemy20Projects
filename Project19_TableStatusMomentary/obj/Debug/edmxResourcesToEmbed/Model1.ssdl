@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Db19Project20Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="TblTables">
+    <Key>
+      <PropertyRef Name="TableId" />
+    </Key>
+    <Property Name="TableId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TableNumber" Type="nvarchar" MaxLength="20" />
+    <Property Name="Status" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="Db19Project20ModelStoreContainer">
+    <EntitySet Name="TblTables" EntityType="Self.TblTables" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

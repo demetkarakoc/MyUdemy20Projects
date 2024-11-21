@@ -1,0 +1,11 @@
+﻿//Netflix Movie and TV Shows Data Linki
+
+https://www.kaggle.com/datasets/shivamb/netflix-shows  
+
+
+//Pizza Sales Data Linki
+https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
+
+
+//SuperStore Data Linki
+https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset

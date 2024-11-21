@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project3_EntityFrameworkStatistics\bin\Debug\Project3_EntityFrameworkStatistics.exe.config
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project3_EntityFrameworkStatistics\bin\Debug\Project3_EntityFrameworkStatistics.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project3_EntityFrameworkStatistics\bin\Debug\Project3_EntityFrameworkStatistics.pdb
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project3_EntityFrameworkStatistics\obj\Debug\Project3_EntityFrameworkStatistics.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project3_EntityFrameworkStatistics\obj\Debug\Project3_EntityFrameworkStatistics.Form1.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project3_EntityFrameworkStatistics\obj\Debug\Project3_EntityFrameworkStatistics.Properties.Resources.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project3_EntityFrameworkStatistics\obj\Debug\Project3_EntityFrameworkStatistics.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project3_EntityFrameworkStatistics\obj\Debug\Project3_EntityFrameworkStatistics.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project3_EntityFrameworkStatistics\obj\Debug\Project3_EntityFrameworkStatistics.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project3_EntityFrameworkStatistics\obj\Debug\Project3_EntityFrameworkStatistics.pdb
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project3_EntityFrameworkStatistics\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project3_EntityFrameworkStatistics\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project3_EntityFrameworkStatistics\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project3_EntityFrameworkStatistics\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project3_EntityFrameworkStatistics\obj\Debug\Project3.255AB040.Up2Date

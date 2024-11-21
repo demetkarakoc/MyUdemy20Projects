@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project18_DashboardSuperStore\bin\Debug\Project18_DashboardSuperStore.exe.config
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project18_DashboardSuperStore\bin\Debug\Project18_DashboardSuperStore.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project18_DashboardSuperStore\bin\Debug\Project18_DashboardSuperStore.pdb
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project18_DashboardSuperStore\obj\Debug\Project18_DashboardSuperStore.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project18_DashboardSuperStore\obj\Debug\Project18_DashboardSuperStore.Form1.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project18_DashboardSuperStore\obj\Debug\Project18_DashboardSuperStore.Properties.Resources.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project18_DashboardSuperStore\obj\Debug\Project18_DashboardSuperStore.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project18_DashboardSuperStore\obj\Debug\Project18_DashboardSuperStore.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project18_DashboardSuperStore\obj\Debug\Project18_DashboardSuperStore.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project18_DashboardSuperStore\obj\Debug\Project18_DashboardSuperStore.pdb

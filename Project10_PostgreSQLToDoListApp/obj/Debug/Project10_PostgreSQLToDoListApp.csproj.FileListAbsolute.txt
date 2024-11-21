@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_PostgreSQLToDoListApp\bin\Debug\Project10_PostgreSQLToDoListApp.exe.config
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_PostgreSQLToDoListApp\bin\Debug\Project10_PostgreSQLToDoListApp.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_PostgreSQLToDoListApp\bin\Debug\Project10_PostgreSQLToDoListApp.pdb
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_PostgreSQLToDoListApp\obj\Debug\Project10_PostgreSQLToDoListApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_PostgreSQLToDoListApp\obj\Debug\Project10_PostgreSQLToDoListApp.Form1.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_PostgreSQLToDoListApp\obj\Debug\Project10_PostgreSQLToDoListApp.Properties.Resources.resources
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_PostgreSQLToDoListApp\obj\Debug\Project10_PostgreSQLToDoListApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_PostgreSQLToDoListApp\obj\Debug\Project10_PostgreSQLToDoListApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_PostgreSQLToDoListApp\obj\Debug\Project10_PostgreSQLToDoListApp.exe
+C:\Users\user\source\repos\MyUdemy20ProjectsCSharp\Project10_PostgreSQLToDoListApp\obj\Debug\Project10_PostgreSQLToDoListApp.pdb
