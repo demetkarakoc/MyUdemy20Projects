@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\MyUdemy20ProjectsCSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{870470BC-F249-41C3-A3D5-C3A45C199BB4}|Project11_TriggerOrderStock\\Project11_TriggerOrderStock.csproj|c:\\users\\user\\source\\repos\\myudemy20projectscsharp\\project11_triggerorderstock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870470BC-F249-41C3-A3D5-C3A45C199BB4}|Project11_TriggerOrderStock\\Project11_TriggerOrderStock.csproj|solutionrelative:project11_triggerorderstock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0E522AA-FC5E-4FC8-9954-42D512EBEC2F}|Project18_DashboardSuperStoreDataset\\Project18_DashboardSuperStoreDataset.csproj|c:\\users\\user\\source\\repos\\myudemy20projectscsharp\\project18_dashboardsuperstoredataset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0E522AA-FC5E-4FC8-9954-42D512EBEC2F}|Project18_DashboardSuperStoreDataset\\Project18_DashboardSuperStoreDataset.csproj|solutionrelative:project18_dashboardsuperstoredataset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,6 +32,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyUdemy20ProjectsCSharp\\Project11_TriggerOrderStock\\Program.cs",
+              "RelativeDocumentMoniker": "Project11_TriggerOrderStock\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MyUdemy20ProjectsCSharp\\Project11_TriggerOrderStock\\Program.cs",
+              "RelativeToolTip": "Project11_TriggerOrderStock\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:01:00.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyUdemy20ProjectsCSharp\\Project18_DashboardSuperStoreDataset\\Program.cs",
               "RelativeDocumentMoniker": "Project18_DashboardSuperStoreDataset\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\MyUdemy20ProjectsCSharp\\Project18_DashboardSuperStoreDataset\\Program.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MyUdemy20ProjectsCSharp\\Project18_DashboardSuperStoreDataset\\Form1.cs",
               "RelativeDocumentMoniker": "Project18_DashboardSuperStoreDataset\\Form1.cs",
